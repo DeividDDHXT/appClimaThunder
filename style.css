@@ -1,0 +1,14 @@
+body{
+
+margin-top: 5%;
+width: 95vw;
+height: 95vh;
+display: grid;
+place-items: center;
+background: rgb(102,199,198);
+background: linear-gradient(0deg, rgba(102,199,198,1) 2%, rgba(94,238,9,1) 100%) no-repeat;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+
+}
+
